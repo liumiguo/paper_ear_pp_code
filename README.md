@@ -37,7 +37,8 @@ FWR result datas were also saved in the format of .rds, and load they with read_
 
 csv or xlsx file include the information of Test materials and the raw data of model prediction accuracy.
 
-Note:Because the file of ear phenotype data (ear_trait_data_2018.rds and ear_trait_data_2019.rds) is too large, github does not support uploading, thus our package cannot directly contain these two files. We have uploaded the data to a third-party platform (Download link below). Before using our code, please download the data file and place it in the Data folder.
+Note: Our package cannot contain ear_trait_data_2018.rds and ear_trait_data_2019.rds directly because GitHub does not support uploading large files. Data has been uploaded to a third-party platform (see the download link below). It is recommended that you download and save the data file to your "Data" folder before using our code.     
+
 Link：https://pan.baidu.com/s/19EZ-iR-OweX8z-wXfblM7Q 
 Extraction code：2sha
 
