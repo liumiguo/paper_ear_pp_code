@@ -1,6 +1,6 @@
 # DESCRIPTTION
 
-**paper_ ear_ pp_ code** contains the data and analysis code used in the analysis process of the article *Discovering yield related genes in make based on ear trait plasticity*, which includes two subfolders: Data, Code.
+**paper_ ear_ pp_ code** contains the data and analysis code used in the analysis process of the paper *Identifying yield-related genes in maize based on ear trait plasticity*, which includes two subfolders: Data, Code. The data and code used are available under a GPL-3.0 license.
 
 
 
@@ -37,15 +37,21 @@ FWR result datas were also saved in the format of .rds, and load they with read_
 
 csv or xlsx file include the information of Test materials and the raw data of model prediction accuracy.
 
-Note: Our package cannot contain ear_trait_data_2018.rds and ear_trait_data_2019.rds directly because GitHub does not support uploading large files. Data has been uploaded to a third-party platform (see the download link below). It is recommended that you download and save the data file to your "Data" folder before using our code.     
-
+Note: Our package cannot contain ear_trait_data_2018.rds and ear_trait_data_2019.rds directly because GitHub does not support uploading large files. Data has been uploaded to a third-party platform (see the download link below). It is recommended that you download and save the data file to your "Data" folder before using our code.   
+  
+Ear phenotype data (ear_trait_data_2018.rds and ear_trait_data_2019.rds) is stored in the following link：
 Link：https://pan.baidu.com/s/19EZ-iR-OweX8z-wXfblM7Q 
 Extraction code：2sha
+
+The 30,000 ear images used as MAIZTRO input are saved in the following link:
+Link：https://pan.baidu.com/s/1Ho4Ig4Q1_bMpruk1Zji0Gw 
+Extraction code：8g8r 
+
 
 
 # Code
 
-The name of the subfolder reflects the corresponding part of the code in the article, and the information at the beginning of the R file ,"[]", reflects the generated code corresponding to the figure or table in the paper.
+The name of the subfolder reflects the corresponding part of the code in the paper, and the information at the beginning of the R file ,"[]", reflects the generated code corresponding to the figure or table in the paper.
 The Tools folder contains FW plot function and naming information used to represent ear treats.
 
 
