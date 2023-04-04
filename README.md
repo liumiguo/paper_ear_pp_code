@@ -44,8 +44,7 @@ Link：https://pan.baidu.com/s/19EZ-iR-OweX8z-wXfblM7Q
 Extraction code：2sha
 
 The 30,000 ear images used as MAIZTRO input are saved in the following link:
-Link：https://pan.baidu.com/s/1Ho4Ig4Q1_bMpruk1Zji0Gw 
-Extraction code：8g8r 
+https://doi.org/10.5281/zenodo.7796696
 
 
 
