@@ -43,8 +43,7 @@ Ear phenotype data (ear_trait_data_2018.rds and ear_trait_data_2019.rds) is stor
 Link：https://pan.baidu.com/s/19EZ-iR-OweX8z-wXfblM7Q 
 Extraction code：2sha
 
-The 30,000 ear images used as MAIZTRO input are saved in the following link:
-https://doi.org/10.5281/zenodo.7796696
+
 
 
 
